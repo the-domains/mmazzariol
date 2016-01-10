@@ -1,0 +1,28 @@
+name: mmazzariol
+favicon: null
+layout_spectrum: 0.7769550611265004
+typography_spectrum: 0.1941017867065966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8560434728860855
+  lightness: 0.35106198745779693
+  saturation: 0.13905938272364438
+  rhythmicContrast: 0.01966817583888769
+purpose: []
